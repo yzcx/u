@@ -1,16 +1,16 @@
 # Jekyll configuration
 
-name: Xixia
+name: 网赚博客
 description: Welcome to Xixia！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/yzcx/u
+url: https://github.com/yzcx
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/u'
+baseurl: '/'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
