@@ -4,7 +4,7 @@ name: 网赚博客
 description: Welcome to Xixia！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/yzcx
+url: https://yzcx.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -18,7 +18,7 @@ date_format:
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "zh" 
 
 paginate: 10
 
